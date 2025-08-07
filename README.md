@@ -4,10 +4,9 @@ This is the personal portfolio site of **David Kupara, ACSI, CFIP** — Wealth S
 
 Visit the live site: [https://davidkupara.github.io](https://davidkupara.github.io)
 
-## Technologies Used
-- HTML5
-- CSS3 (inline styling)
+## Features
+- Professional background and experience
+- Contact form powered by [Formspree](https://formspree.io)
 
-## How to Deploy
-This site is designed to be hosted with GitHub Pages from the `davidkupara.github.io` repository.
-
+## How to Use
+Upload all files in this ZIP to your GitHub Pages repository: `davidkupara.github.io`
